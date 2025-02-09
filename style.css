@@ -1,0 +1,40 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    
+}
+
+#page1{
+    background-color: beige;
+}
+
+#page2{
+    background-color: lightblue;
+}
+
+
+
+#specialbutton{
+    background-color: darkblue;
+    color:aliceblue;
+    border-radius: 4px;
+    margin: 5px;
+}
+
+#specialbutton:hover{
+    background-color:cadetblue;
+}
+
+div{
+    margin:5px;
+}
+
+#thanks{
+    text-align: center;
+}
+
+img{
+    width:50%;
+    display: block;
+    margin:auto;
+}
